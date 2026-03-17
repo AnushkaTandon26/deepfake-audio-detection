@@ -6,8 +6,8 @@ A full-stack AI-powered web application that detects whether an audio clip is **
 
 ## Live Demo
 
-Frontend: https://deepfake-audio-detection.vercel.app
-Backend API: https://audio-detection-deepfake.onrender.com
+Frontend: https://deepfake-audio-detection-anushkas-projects-6b91ec06.vercel.app/
+Backend API: https://audio-detection-deepfake.onrender.com/
 
 ---
 
