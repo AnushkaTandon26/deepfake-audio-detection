@@ -271,7 +271,11 @@ PYTHON_VERSION=3.10.13
 ## Author
 
 Anushka Tandon
+
+
 Computer Science Student
+
+
 Interested in AI, Deep Learning, and Full-Stack Development
 
 ---
